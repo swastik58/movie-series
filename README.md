@@ -12,7 +12,7 @@
 - THE WALLPAPER USED IN THE WEBSITE IS FROM THE DARK KNIGHT.
 
 - NETLIFY : https://www.netlify.com/
-- WEBSITE LINK : 
+- WEBSITE LINK : https://one-stop-entertainment.netlify.app/
 
 
 ### BUILT USING :
