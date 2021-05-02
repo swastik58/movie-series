@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+*
+{
+  scroll-behavior: smooth;
+}
+.App
+{
+  min-height: 100vh;
+  background-color: black;
+  background-image: url("back.jpg");
+  background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+  color: white;
+  padding-top: 130px;
+  padding-bottom: 70px;
+}
+
+@media(max-width: 700px)
+{
+  .App
+  {
+    padding-top: 70px;
+  }
+}
+
+/** title of each page */
+.pagetitle
+{
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  padding: 4px;
+  padding-top: 2%;
+  border-radius: 50px;
+  color: white;
+  font-family: 'Krona One', sans-serif;
+  font-size: 3vw;
+}
+
+@media (max-width: 1000px)
+{
+  .pagetitle
+  {
+    font-size: 6.4vw;
+  }
+}
